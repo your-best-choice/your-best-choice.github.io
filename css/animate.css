@@ -4,7 +4,7 @@
     background-position: center;
     margin-top: ;
     }
-    button {
+ button {
     background: silver;
     // background: url("https://your-best-choice.github.io/images/pr1.GIF") no-repeat;
     background-size: 100%;
@@ -69,7 +69,6 @@
     color: silver;
     font-size:1.2em;
    }   
-
 .animated {
   -webkit-animation-duration: 1s;
           animation-duration: 1s;
