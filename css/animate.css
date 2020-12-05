@@ -1,3 +1,75 @@
+ body {
+    // background: url("https://your-best-choice.github.io/images/pr.GIF") no-repeat;
+    background-size: 100%;
+    background-position: center;
+    margin-top: ;
+    }
+    button {
+    background: silver;
+    // background: url("https://your-best-choice.github.io/images/pr1.GIF") no-repeat;
+    background-size: 100%;
+    background-position: center;
+    border-radius: 30px;
+    width: 280px;
+    height: 56px;
+    font-size: 16pt;
+    font: bold 1.0em/1.5em;
+    color: maroon;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+    .block1 {
+	bottom: 70px;
+	background: 0;
+	position: center;
+   }     
+   .block2 {
+	bottom: 100px;
+	right: 0px;
+	padding-right: 0px;
+	background: 0;
+	position: absolute;
+   }    
+   .blockSA {
+    font: 2em Verdana, Geneva, sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    display: table;
+    background: 0;
+    color: white;
+    margin-top: -0.4em;
+    margin-bottom: 0em;
+   }   
+   .blockDate {
+    font: 1.5em Verdana, Geneva, sans-serif;
+    font-size: 12pt;
+    bottom: 200px;
+    text-align: justify;
+    background: 0;
+    position: absolute;
+   }   
+   h1 {
+    font-size: 100%;
+    margin-bottom: 0px;
+    font: bold 1em/1.5em sans-serif;
+    color: white;
+   }      
+   a {
+   font-family: Verdana, Geneva, sans-serif;
+   color: white;
+    font-size: 14pt;
+   }   
+   .shadowtext {
+    text-shadow: 2px 2px 4px grey, 0 0 4em red;
+    color: maroon;
+    font-size:1.6em;
+   }
+    .shadowtext1 {
+    text-shadow: 2px 2px 8px grey, 0 0 2em silver;
+    color: silver;
+    font-size:1.2em;
+   }   
+
 .animated {
   -webkit-animation-duration: 1s;
           animation-duration: 1s;
