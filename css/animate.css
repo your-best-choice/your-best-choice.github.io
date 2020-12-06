@@ -31,7 +31,7 @@
 	position: absolute;
    }    
    .blockSA {
-    font: 2em Verdana, Geneva, sans-serif;
+    font: 2em Verdana, Geneva, san-serif;
     font-size: 12pt;
     text-align: center;
     display: table;
@@ -41,7 +41,7 @@
     margin-bottom: 0em;
    }   
    .blockDate {
-    font: 1.5em Verdana, Geneva, sans-serif;
+    font: 1.5em Verdana, Geneva, san-serif;
     font-size: 12pt;
     bottom: 200px;
     text-align: justify;
@@ -51,11 +51,11 @@
    h1 {
     font-size: 100%;
     margin-bottom: 0px;
-    font: bold 1em/1.5em sans-serif;
+    font: bold 1em/1.5em san-serif;
     color: white;
    }      
    a {
-   font-family: Verdana, Geneva, sans-serif;
+   font-family: Verdana, Geneva, san-serif;
    color: white;
     font-size: 14pt;
    }   
