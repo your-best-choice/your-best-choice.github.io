@@ -49,15 +49,15 @@
     position: absolute;
    }   
    h1 {
-    font-size: 100%;
-    margin-bottom: 0px;
+    font-family: Verdana, Geneva;
     font: bold 1em/1.5em;
     color: white;
+    font-size: 14pt;
    }      
    a {
    font-family: Verdana, Geneva;
    color: white;
-    font-size: 14pt;
+   font-size: 14pt;
    }   
    .shadowtext {
     text-shadow: 2px 2px 4px grey, 0 0 4em red;
