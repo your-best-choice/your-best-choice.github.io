@@ -14,7 +14,7 @@
     height: 84px;
     font-size: 16pt;
     font: bold 1.0em/1.5em;
-    color: maroon;
+    // color: maroon;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     }
